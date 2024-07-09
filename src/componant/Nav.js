@@ -10,7 +10,7 @@ const Nav = ()=>{
                 <li className="mr-9 w-fit lg:hover:scale-125 hover:-translate-y-1 transition ease-in-out delay-75 duration-100 "><a href='#menu'>Menu</a></li>
                 <li className="mr-9 w-fit lg:hover:scale-125 hover:-translate-y-1 transition ease-in-out delay-75 duration-100 "><Link to={"/Little-Lemon/Booking"}>Reservation</Link></li>
                 <li className="mr-9 w-fit lg:hover:scale-125 hover:-translate-y-1 transition ease-in-out delay-75 duration-100 "><a href='#menu'>Order online</a></li>
-                <li className="mr-9 w-fitb bg-[#F4CE14] lg:w-28 h-10 rounded-lg flex items-center justify-center lg:hover:scale-110 transition ease-in-out delay-75 duration-100 "><Link to={"https://EbraheemAbdelAziz.github.io/Little-Lemon/"}>Login</Link></li>
+                <li className="mr-9 w-fitb bg-[#F4CE14] lg:w-28 h-10 rounded-lg flex items-center justify-center lg:hover:scale-110 transition ease-in-out delay-75 duration-100 "><Link to={"https://github.com/Aymanelmai"}>Login</Link></li>
             </ul>
         </nav>
         </>
