@@ -1,5 +1,8 @@
 import img1 from "../assets/icons_assets/Mario and Adrian A.jpg"
 import img2 from "../assets/icons_assets/Mario and Adrian b.jpg"
+
+// The about section
+
 const About = ()=>{
     return (
         <section className="grid grid-cols-4 auto-rows-auto px-10 mt-10 lg:grid-cols-12 md:grid-cols-8 gap-x-5 gl:px-16 " id="about">
