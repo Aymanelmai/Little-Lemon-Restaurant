@@ -1,5 +1,8 @@
 import { useState } from "react";
 import image from "../assets/icons_assets/eating_02.jpg"
+
+// The booking form section
+
 const BookingForm = (props)=>{
 
     const [alert1 ,setAlert1] = useState()

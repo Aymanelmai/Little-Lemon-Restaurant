@@ -1,6 +1,8 @@
 import icon from "../assets/icons_assets/fast-delivery.png"
 import { Link } from "react-router-dom";
 
+// The card section
+
 const Card = (props) => {
     return (
     <div className="grid grid-cols-4  auto-rows-auto md:grid-cols-6 lg:grid-cols-3 lg:w-64  md:mb-2 md:drop-shadow-lg md:px-3 md:pb-3 my-3 lg:hover:scale-105 lg:hover:z-50 bg-white rounded-md transition ease-in-out delay-150 duration-200" >

@@ -5,6 +5,8 @@ import { useState } from "react"
 import basket from "../assets/icons_assets/Basket.png"
 import { Link } from 'react-router-dom';
 
+// The header section
+
 
 const Header = ({children})=>{
     const [sidebar ,setSidebar] = useState(false);

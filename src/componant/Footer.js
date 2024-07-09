@@ -1,6 +1,8 @@
 import logo from "../assets/icons_assets/Logo .png"
 import { Link } from 'react-router-dom';
 
+// The footer section
+
 const Footer = ()=>{
 return(
     <footer className="grid grid-cols-4 auto-rows-auto px-10 gap-x-5 py-10 mt-5 bg-[#FBDABB] md:grid-cols-8 lg:grid-cols-12">

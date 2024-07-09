@@ -1,5 +1,8 @@
 import { Link } from "react-router-dom";
 import img1 from "../assets/icons_assets/restauranfood.jpg"
+
+// The home section
+
 const Home = ()=>{
 return(
     <section className="grid grid-cols-4 px-10 lg:grid-cols-12 md:grid-cols-8 gap-x-5 gl:px-16 bg-primary-2 h-fit">

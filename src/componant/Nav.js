@@ -1,5 +1,8 @@
 
 import { Link } from 'react-router-dom';
+
+// The nav section
+
 const Nav = ()=>{
     return (
         <>
